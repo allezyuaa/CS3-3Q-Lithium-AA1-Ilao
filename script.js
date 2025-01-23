@@ -4,7 +4,7 @@ var circumference = 2*PI*radius;
 var surfaceArea = 4*PI*(radius**2);
 var volume = (4/3)*PI*(radius**3);
 
-document.write('The radius of the sphere is ', radius,".");
+document.write('The radius of the sphere is ', radius, ".");
 document.write('<br><br>');
 document.write('The circumference of the sphere is ', circumference, ".");
 document.write('<br><br>');
